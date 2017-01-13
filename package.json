@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/middlinp/CodeMashBotDemo/issues"
   },
-  "homepage": "https://github.com/middlinp/CodeMashBotDemo#readme"
+  "homepage": "https://github.com/middlinp/CodeMashBotDemo#readme",
+  "dependencies": {
+    "botbuilder": "^3.5.3",
+    "restify": "^4.3.0"
+  }
 }
