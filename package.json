@@ -1,0 +1,22 @@
+{
+  "name": "codemashbotdemo",
+  "version": "1.0.0",
+  "description": "Bot Demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/middlinp/CodeMashBotDemo.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Paul Middlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/middlinp/CodeMashBotDemo/issues"
+  },
+  "homepage": "https://github.com/middlinp/CodeMashBotDemo#readme"
+}
